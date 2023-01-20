@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/authentication/static/css/main.c2cab247.css",
+    "main.js": "/authentication/static/js/main.1ab118ef.js",
+    "index.html": "/authentication/index.html",
+    "main.c2cab247.css.map": "/authentication/static/css/main.c2cab247.css.map",
+    "main.1ab118ef.js.map": "/authentication/static/js/main.1ab118ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.1ab118ef.js"
+  ]
+}
